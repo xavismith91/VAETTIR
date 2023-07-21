@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: "Ethnocentric";
   src: url("../fonts/ethnocentric/ethnocentric rg.ttf") format("ttf");
   font-weight: 400;
@@ -8,11 +8,11 @@
   font-family: "Ethnocentric";
   src: url("../fonts/ethnocentric/ethnocentric rg it.ttf") format("ttf");
   font-weight: 400;
-}
+} */
 
-@font-face {
+/* @font-face {
   font-family: "arca";
-  src: url("../fonts/arcamajora/ArcaMajora3-Bold.otf") format("otf");
+  src: url("../fonts/designer/DESIGNER.otf") format("otf");
   font-weight: 400;
 }
 
@@ -20,16 +20,16 @@
   font-family: "designer";
   src: url("../fonts/designer/DESIGNER.otf") format("otf");
   font-weight: bold;
-}
+} */
 
 h1,
 h2,
 h3 {
-  font-family: "designer";
+  font-family: "DESIGNER", DESIGNER;
 }
 
 body {
-  font-family: "desinger";
+  font-family: "DESIGNER", DESIGNER;
   color: #101010;
   background-color: #ffffff;
 }
