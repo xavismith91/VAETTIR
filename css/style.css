@@ -10,7 +10,7 @@
   font-weight: 400;
 } */
 
-@font-face {
+/* @font-face {
   font-family: "arca";
   src: url("../fonts/designer/DESIGNER.otf") format("otf");
   font-weight: 400;
@@ -20,7 +20,7 @@
   font-family: "designer";
   src: url("../fonts/designer/DESIGNER.otf") format("otf");
   font-weight: bold;
-}
+} */
 
 h1,
 h2,
